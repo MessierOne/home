@@ -1,2 +1,2 @@
 # messier-one.github.io
-Website
+Page
