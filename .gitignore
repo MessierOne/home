@@ -8,13 +8,13 @@
 /httpRequests/
 /src/
 /public/
-/configs/
-/messier-one-policy/
+/local/configs/
+/local/messier-one-policy/
 /node_modules/
 .env
-asset-manifest.json
+/local/
 README.old.md
 robots.txt
 service-worker.js
 package.json
-package-lock.json
+local/package-lock.json
