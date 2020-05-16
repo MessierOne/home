@@ -6,4 +6,15 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
-/local/
+/src/
+/public/
+/configs/
+/messier-one-policy/
+/node_modules/
+.env
+asset-manifest.json
+README.old.md
+robots.txt
+service-worker.js
+package.json
+package-lock.json
